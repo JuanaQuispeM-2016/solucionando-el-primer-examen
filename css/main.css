@@ -1,0 +1,8 @@
+*{outline: 1px solid rgba(255,0,0,0.3)}
+body{ 
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; 
+	font-size: 14px;
+	color: #888;
+}
+ul li {display: inline-block; text-align: }
+header{background-color: #424242;}
